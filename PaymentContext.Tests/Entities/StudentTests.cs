@@ -6,7 +6,7 @@ namespace PaymentContext.Tests.Entities {
     public class StudentTests {
         [TestMethod]
         public void TestMethod1 () {
-            var student = new Student ("Francelio", "Alencar", "23443223", "francelio.si@gmail.com");
+            // var student = new Student ("Francelio", "Alencar", "23443223", "francelio.si@gmail.com");
 
         }
 
